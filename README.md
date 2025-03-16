@@ -1,12 +1,12 @@
-# ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、4o和o1、o3、deepseek、grok3）【2025/03/14更新】
+# ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、4o和o1、o3、deepseek、grok3）【2025/03/17更新】
 
-> 更新时间：2025/03/14
+> 更新时间：2025/03/17
 
 全面讲解 ChatGPT 中文版 的国内使用方法，为用户推荐无需翻墙的镜像网站
 
 本指南提供 ChatGPT 中文版使用指南，汇总国内可用的 ChatGPT镜像网站 和 官网使用教程
 
-帮助您快速上手 ChatGPT，无论是个人使用还是专业需求，均可无限使用 ChatGPT-4、4o 和 o1！
+帮助您快速上手 ChatGPT，无论是个人使用还是专业需求，均可无限使用 ChatGPT-4、GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3！
 
 ## 为什么选择 ChatGPT 中文版？
 
